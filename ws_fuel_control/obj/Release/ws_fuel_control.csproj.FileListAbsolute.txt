@@ -1,0 +1,2 @@
+C:\Users\Assac\Desktop\PROYECTOS ASSAC\CONTROL DE COMBUSTIBLE\Web Service\WS_CONTROL_COMBUSTIBLE\ws_fuel_control\obj\Release\ws_fuel_control.csprojAssemblyReference.cache
+C:\Users\Assac\Desktop\PROYECTOS ASSAC\CONTROL DE COMBUSTIBLE\Web Service\WS_CONTROL_COMBUSTIBLE\ws_fuel_control\obj\Release\ws_fuel_control.csproj.CoreCompileInputs.cache
