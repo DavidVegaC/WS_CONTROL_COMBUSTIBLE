@@ -41,11 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL_ModelCompartment.cs" />
     <Compile Include="BL_Operator.cs" />
     <Compile Include="BL_Compartment.cs" />
     <Compile Include="BL_Reason.cs" />
     <Compile Include="BL_Product.cs" />
     <Compile Include="BL_User.cs" />
+    <Compile Include="BL_Vehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
